@@ -17,4 +17,4 @@ Start the virtual device.
 Run the project using ```flutter run```.
 
 ## Demo
-
+![](https://raw.githubusercontent.com/ganeshdipdumbare/personality-test/master/personality.gif)
